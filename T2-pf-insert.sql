@@ -5,7 +5,8 @@
 --Student Name: Shaokun Zhu
 
 /* Comments for your marker: 
-
+	Insert records into the  3 created tables,
+	with values that meet the requirement.
 
 
 
